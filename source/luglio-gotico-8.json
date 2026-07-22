@@ -3,7 +3,7 @@
 	"$version": "1.0",
 	"in-glyphs": [
 		"abgdeqzhþiklmnjupc",
-		"rstwfxƕoï   áāēíōū",
+		"rstwfxƕoï  váāēíōū",
 		"()[]-–—    :.?!,; ",
 		"",
 		"1234567890",
@@ -11,7 +11,7 @@
 		"",
 		"",
 		"ABGDEQZHÞIKLMNJUPC",
-		"RSTWFXǶOÏ   ÁĀĒÍŌŪ"
+		"RSTWFXǶOÏ  vÁĀĒÍŌŪ"
 	],
 	"glyph-color": "black",
 	"glyph-width": 12,
@@ -49,7 +49,7 @@
 	"font-creation-date": "2026-07-16",
 	"font-creation-time": "15:42",
 	"font-modification-date": "2026-07-22",
-	"font-modification-time": "00:04",
+	"font-modification-time": "01:19",
 	"font-modification-auto": true,
 	"overrides": [
 		"# hide the pixels of the \"space\" characters!",
