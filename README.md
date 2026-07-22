@@ -19,13 +19,14 @@ Reference the Wikipedia entry for the [Gothic alphabet](https://en.wikipedia.org
 
 A few things to consider:
 
-- The `𐍁` symbol for the numeral &ldquo;90&rdquo; can be typed with `c`.
-- The symbol `𐍊` for the numeral &ldquo;900&rdquo; can be typed with `0` (zero).
+- The `𐍈` symbol for the `hv` ligature can be typed with `ƕ` or `v`. Real ligatures are not yet implemented.
+- The `𐌸` symbol for `th` can be typed with `þ` or `c`.
+- The `𐍁` symbol for the numeral &ldquo;90&rdquo; can be typed with `y`.
+- The `𐍊` symbol for the numeral &ldquo;900&rdquo; can be typed with `0` (zero).
 - Uppercase and lowercase letters are identical.
-- Diacritics on the vowels `áāēíōū` are identical to the base vowels. This is for ease of copy-pasting text that contains diacritics. Exception is `ï` (i with trema), which has its own glyph.
+- Vowels with diacritics `áāēíōū` are identical to the according base vowels. This is for ease of copy-pasting text that contains diacritics. Exception is `ï`, which has its own glyph.
 - Punctuation `.,;?!` is all rendered as middot `·`.
 - Currently, there are the following additional symbols which do not exist in the source material: `()[]`, as well as `dash`, `en-dash`, and `em-dash`.
-- The glyph for the `ƕ` ligature is not yet implemented. It can be typed with this symbol or with `v`.
 
 ## Modification
 
