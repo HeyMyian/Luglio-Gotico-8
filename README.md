@@ -44,6 +44,6 @@ If your modification is an improvement, feel free to create a pull request with 
 
 ## Credits
 
-The font is created by @HeyMyian.
+The font is created by me, [HeyMyian](https://github.com/heymyian).
 
 The [Pixel Font Converter!](https://yellowafterlife.itch.io/pixelfont) tool by YellowAfterlife has been used to create the font file.
